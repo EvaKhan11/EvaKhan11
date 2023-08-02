@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- My name is Eva
-- I am currently doing the Karim Kharbouch Coding Fellowship program of The Knowledge House
-- I am learning HTML, CSS, JavaScript, and web design
-- I am currently working on my portfolio website
+- My name is Eva.
+- I am currently doing the Karim Kharbouch Coding Fellowship program of The Knowledge House.
+- I am learning HTML, CSS, JavaScript, and web design.
+- I am currently working on my portfolio website.
 
 
 
